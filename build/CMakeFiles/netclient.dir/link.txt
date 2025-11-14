@@ -1,0 +1,2 @@
+/opt/linux/x86-arm/arm-mix410-linux/bin/arm-mix410-linux-ar qc libnetclient.a CMakeFiles/netclient.dir/libs/net/net_client.c.o
+/opt/linux/x86-arm/arm-mix410-linux/bin/arm-mix410-linux-ranlib libnetclient.a

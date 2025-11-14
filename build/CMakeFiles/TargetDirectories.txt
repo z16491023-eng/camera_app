@@ -1,0 +1,12 @@
+/home/li/hi_project/camera_app/build/CMakeFiles/proto.dir
+/home/li/hi_project/camera_app/build/CMakeFiles/netclient.dir
+/home/li/hi_project/camera_app/build/CMakeFiles/serialmgr.dir
+/home/li/hi_project/camera_app/build/CMakeFiles/agent.dir
+/home/li/hi_project/camera_app/build/CMakeFiles/btt-agent.dir
+/home/li/hi_project/camera_app/build/CMakeFiles/bt_at_test.dir
+/home/li/hi_project/camera_app/build/CMakeFiles/bt_echo.dir
+/home/li/hi_project/camera_app/build/CMakeFiles/uat_init.dir
+/home/li/hi_project/camera_app/build/CMakeFiles/rec_30s.dir
+/home/li/hi_project/camera_app/build/CMakeFiles/snap_test.dir
+/home/li/hi_project/camera_app/build/CMakeFiles/edit_cache.dir
+/home/li/hi_project/camera_app/build/CMakeFiles/rebuild_cache.dir

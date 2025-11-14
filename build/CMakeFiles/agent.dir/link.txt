@@ -1,0 +1,2 @@
+/opt/linux/x86-arm/arm-mix410-linux/bin/arm-mix410-linux-ar qc libagent.a CMakeFiles/agent.dir/libs/agent/agent.c.o
+/opt/linux/x86-arm/arm-mix410-linux/bin/arm-mix410-linux-ranlib libagent.a

@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "proto.h": "c",
+        "inet.h": "c",
+        "net_client.h": "c",
+        "time.h": "c",
+        "stdint.h": "c",
+        "signal.h": "c",
+        "stddef.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "hif_media_ss522.h": "c",
+        "hgs_misc.h": "c",
+        "serial_mgr.h": "c",
+        "stdio.h": "c"
+    }
+}

@@ -1,0 +1,1 @@
+/opt/linux/x86-arm/arm-mix410-linux/bin/arm-mix410-linux-gcc -O3 -DNDEBUG CMakeFiles/uat_init.dir/apps/tools/uat_init.c.o -o bin/uat_init  /home/li/hi_project/camera_app/external/libhgs_misc.a -lpthread -lm -ldl 

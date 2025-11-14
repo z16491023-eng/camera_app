@@ -1,0 +1,2 @@
+/opt/linux/x86-arm/arm-mix410-linux/bin/arm-mix410-linux-ar qc libserialmgr.a CMakeFiles/serialmgr.dir/libs/serial/serial_mgr.c.o
+/opt/linux/x86-arm/arm-mix410-linux/bin/arm-mix410-linux-ranlib libserialmgr.a

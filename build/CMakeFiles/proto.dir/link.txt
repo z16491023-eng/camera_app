@@ -1,0 +1,2 @@
+/opt/linux/x86-arm/arm-mix410-linux/bin/arm-mix410-linux-ar qc libproto.a CMakeFiles/proto.dir/libs/proto/proto.c.o
+/opt/linux/x86-arm/arm-mix410-linux/bin/arm-mix410-linux-ranlib libproto.a

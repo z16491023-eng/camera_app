@@ -1,0 +1,1 @@
+/opt/linux/x86-arm/arm-mix410-linux/bin/arm-mix410-linux-gcc -O3 -DNDEBUG CMakeFiles/bt_echo.dir/apps/tools/bt_echo.c.o -o bin/bt_echo  /home/li/hi_project/camera_app/external/libhgs_misc.a -lpthread -lm -ldl 
